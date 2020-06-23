@@ -36,7 +36,9 @@ tags:
     theta=theta-alpha/m*X'*(h-y);
   end
   ```
+  
 # Another solution for linear regression:
+
 * Normal Equations
 ![](/img/ad76195c.png)
 
