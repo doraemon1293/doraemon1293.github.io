@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Coursera_machine_learning_assignment1
+title:      Coursera_machine_learning_assignment2
 subtitle:   
 date:       2020-06-24
 author:     Yan
