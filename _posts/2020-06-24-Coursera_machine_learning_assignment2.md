@@ -55,3 +55,8 @@ options = optimset('GradObj', 'on', 'MaxIter', 400);
 [theta, cost] = fminunc(@(t)(costFunction(t, X, y)), initial_theta, options);
 ```
 
+* Predict
+```
+p=sigmoid(X*theta);
+p=p>=0.5;
+```
