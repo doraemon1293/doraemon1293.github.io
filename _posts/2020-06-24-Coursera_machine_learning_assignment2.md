@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Coursera_machine_learning_assignment2
+title:      Coursera_machine_learning_assignment2 / 逻辑回归
 subtitle:   
 date:       2020-06-24
 author:     Yan

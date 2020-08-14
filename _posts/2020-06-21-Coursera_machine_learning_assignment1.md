@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Coursera_machine_learning_assignment1
+title:      Coursera_machine_learning_assignment1 / 线性回归 梯度下降
 subtitle:   
 date:       2020-06-21
 author:     Yan
